@@ -1,4 +1,4 @@
-# VAR and StructuralVAR | Macrometrics Project
+# 📊 VAR and StructuralVAR | Macrometrics Project
 
 ### Monetary Policy Shocks in Emerging Economies  
 
